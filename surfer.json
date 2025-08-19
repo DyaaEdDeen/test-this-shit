@@ -9,14 +9,22 @@
     "candidate": "141.0.3"
   },
   "buildOptions": {
-    "windowsUseSymbolicLinks": false
+    "generateBranding": true
   },
   "addons": {},
-  "brands": {},
+  "brands": {
+    "ramses": {
+      "backgroundColor": "#ff0000",
+      "brandShorterName": "Ramses",
+      "brandShortName": "Ramses",
+      "brandFullName": "Test This Shit",
+      "release": {
+        "displayVersion": "142.0.3"
+      }
+    }
+  },
   "license": {
-    "ignoredFiles": [
-      ".*\\.json"
-    ],
+    "ignoredFiles": [".*\\.json"],
     "licenseType": "MPL-2.0"
   }
 }
