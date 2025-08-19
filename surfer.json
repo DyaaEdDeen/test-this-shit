@@ -1,8 +1,8 @@
 {
-  "name": "Test This Shit",
-  "vendor": "Master",
-  "appId": "org.master.shit",
-  "binaryName": "master-browser",
+  "name": "Master Shit Browser",
+  "vendor": "Master Shit",
+  "appId": "com.master.shit.browser",
+  "binaryName": "master-shit-browser",
   "version": {
     "product": "firefox",
     "version": "141.0.3",
@@ -13,11 +13,11 @@
   },
   "addons": {},
   "brands": {
-    "master": {
-      "backgroundColor": "#ff0000",
-      "brandShorterName": "Master",
-      "brandShortName": "Master",
-      "brandFullName": "Test This Shit",
+    "shit": {
+      "backgroundColor": "#000000",
+      "brandShorterName": "Master Shit",
+      "brandShortName": "Master Shit",
+      "brandFullName": "Master Shit Browser",
       "release": {
         "displayVersion": "141.0.3"
       }
