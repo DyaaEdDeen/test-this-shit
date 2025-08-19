@@ -1,8 +1,8 @@
 {
   "name": "Test This Shit",
-  "vendor": "Ramses",
-  "appId": "test.this.shit",
-  "binaryName": "test-this-shit",
+  "vendor": "Master",
+  "appId": "org.master.shit",
+  "binaryName": "master-browser",
   "version": {
     "product": "firefox",
     "version": "141.0.3",
@@ -13,13 +13,13 @@
   },
   "addons": {},
   "brands": {
-    "ramses": {
+    "master": {
       "backgroundColor": "#ff0000",
-      "brandShorterName": "Ramses",
-      "brandShortName": "Ramses",
+      "brandShorterName": "Master",
+      "brandShortName": "Master",
       "brandFullName": "Test This Shit",
       "release": {
-        "displayVersion": "142.0.3"
+        "displayVersion": "141.0.3"
       }
     }
   },
