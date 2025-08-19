@@ -1,0 +1,22 @@
+{
+  "name": "Test This Shit",
+  "vendor": "Ramses",
+  "appId": "org.ramses.test.this.shit",
+  "binaryName": "test-this-shit",
+  "version": {
+    "product": "firefox",
+    "version": "141.0.3",
+    "candidate": "141.0.3"
+  },
+  "buildOptions": {
+    "windowsUseSymbolicLinks": false
+  },
+  "addons": {},
+  "brands": {},
+  "license": {
+    "ignoredFiles": [
+      ".*\\.json"
+    ],
+    "licenseType": "MPL-2.0"
+  }
+}
