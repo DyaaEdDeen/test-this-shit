@@ -1,7 +1,7 @@
 {
   "name": "Test This Shit",
   "vendor": "Ramses",
-  "appId": "org.ramses.test.this.shit",
+  "appId": "test.this.shit",
   "binaryName": "test-this-shit",
   "version": {
     "product": "firefox",
